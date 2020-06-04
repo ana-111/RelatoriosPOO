@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.exe
+C:\Users\Pichau\Documents\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.deps.json
+C:\Users\Pichau\Documents\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.runtimeconfig.json
+C:\Users\Pichau\Documents\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.dll
+C:\Users\Pichau\Documents\RelatoriosPOO\bin\Debug\netcoreapp3.1\RelatoriosPOO.pdb
+C:\Users\Pichau\Documents\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.csprojAssemblyReference.cache
+C:\Users\Pichau\Documents\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.AssemblyInfo.cs
+C:\Users\Pichau\Documents\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.dll
+C:\Users\Pichau\Documents\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.pdb
+C:\Users\Pichau\Documents\RelatoriosPOO\obj\Debug\netcoreapp3.1\RelatoriosPOO.genruntimeconfig.cache
